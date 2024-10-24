@@ -1,0 +1,7 @@
+{
+    "states_cities": {
+        "IN": ["Bloomington", "Evansville"],
+        "OK": ["Tulsa", "Lawton", "Edmond"],
+        "TN": ["Chattanooga", "Murfreesboro"],
+    }
+}
