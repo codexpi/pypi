@@ -1,0 +1,13 @@
+States & Cities JSON
+
+[states_cities]
+```json5
+{
+    "states_cities": {
+        "IN": ["Bloomington", "Evansville"],
+        "OK": ["Tulsa", "Lawton", "Edmond"],
+        "TN": ["Chattanooga", "Murfreesboro"],
+    }
+}
+```
+[/states_cities]
